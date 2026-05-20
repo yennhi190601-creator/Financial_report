@@ -1,5 +1,5 @@
 # Financial statements
-## Non-financial (public)
+## Non-financial: file sample (public)
 ## Financial: Banking, Securities, insurance (private)
 
 ## Information project
