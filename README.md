@@ -1,6 +1,6 @@
 # Financial statements
-## Non-financial: 
-## Financial: Banking, Securities, insurance
+## Non-financial (public)
+## Financial: Banking, Securities, insurance (private)
 
 Process, calculate and draw chart  
 Data: from financial statement of company in HOSE, HNX, UpCom  
